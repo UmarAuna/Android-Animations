@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/battery_charging_0" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_1" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_2" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_3" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_4" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_5" android:duration="200"/>
+    <item android:drawable="@drawable/battery_charging_6" android:duration="200"/>
+</animation-list>
